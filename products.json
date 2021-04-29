@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "The Complete Strapi Course",
+    "content": "The Complete Strapi Course, available on Udemy, coupon in description",
+    "meta_description": "The Complete Strapi Course, the course you should be taking",
+    "meta_title": "The Complete Strapi Course - Entreprenerd Store",
+    "price": 12.99,
+    "slug": "the-complete-strapi-course",
+    "published_at": "2021-04-29T07:46:10.266Z",
+    "created_at": "2021-04-29T07:46:05.167Z",
+    "updated_at": "2021-04-29T07:46:10.290Z",
+    "image": {
+      "id": 1,
+      "name": "Complete_Strapi_Course_4c54399116.png",
+      "alternativeText": "",
+      "caption": "",
+      "width": 750,
+      "height": 422,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Complete_Strapi_Course_4c54399116.png",
+          "hash": "thumbnail_Complete_Strapi_Course_4c54399116_0b549abd97",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 245,
+          "height": 138,
+          "size": 37.64,
+          "path": null,
+          "url": "/uploads/thumbnail_Complete_Strapi_Course_4c54399116_0b549abd97.png"
+        },
+        "small": {
+          "name": "small_Complete_Strapi_Course_4c54399116.png",
+          "hash": "small_Complete_Strapi_Course_4c54399116_0b549abd97",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 500,
+          "height": 281,
+          "size": 127.52,
+          "path": null,
+          "url": "/uploads/small_Complete_Strapi_Course_4c54399116_0b549abd97.png"
+        }
+      },
+      "hash": "Complete_Strapi_Course_4c54399116_0b549abd97",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 218.9,
+      "url": "/uploads/Complete_Strapi_Course_4c54399116_0b549abd97.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-04-29T07:39:24.181Z",
+      "updated_at": "2021-04-29T07:39:24.194Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "The NextJS with Strapi Course",
+    "content": "This course is in the works, and may never be released. If your're interested, check the link in description",
+    "meta_description": "The NextJS course description",
+    "meta_title": "The NextJs with Strapi Course - Entreprenerd Store",
+    "price": 497,
+    "slug": "next-js-with-strapi-course",
+    "published_at": "2021-04-29T07:51:54.074Z",
+    "created_at": "2021-04-29T07:51:49.047Z",
+    "updated_at": "2021-04-29T11:58:50.326Z",
+    "image": {
+      "id": 2,
+      "name": "Next_Js_Strapi_Course_a2b47bf2d9.png",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1920,
+      "height": 1080,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Next_Js_Strapi_Course_a2b47bf2d9.png",
+          "hash": "thumbnail_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 245,
+          "height": 138,
+          "size": 37.08,
+          "path": null,
+          "url": "/uploads/thumbnail_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7.png"
+        },
+        "large": {
+          "name": "large_Next_Js_Strapi_Course_a2b47bf2d9.png",
+          "hash": "large_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 1000,
+          "height": 563,
+          "size": 423.08,
+          "path": null,
+          "url": "/uploads/large_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7.png"
+        },
+        "medium": {
+          "name": "medium_Next_Js_Strapi_Course_a2b47bf2d9.png",
+          "hash": "medium_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 750,
+          "height": 422,
+          "size": 251,
+          "path": null,
+          "url": "/uploads/medium_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7.png"
+        },
+        "small": {
+          "name": "small_Next_Js_Strapi_Course_a2b47bf2d9.png",
+          "hash": "small_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 500,
+          "height": 281,
+          "size": 121.78,
+          "path": null,
+          "url": "/uploads/small_Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7.png"
+        }
+      },
+      "hash": "Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 1114.06,
+      "url": "/uploads/Next_Js_Strapi_Course_a2b47bf2d9_0001ece7a7.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-04-29T07:48:08.749Z",
+      "updated_at": "2021-04-29T07:48:08.763Z"
+    }
+  }
+]
